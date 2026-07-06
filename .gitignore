@@ -1,0 +1,98 @@
+# ─── Security (NEVER commit these) ───────────────────────────
+.env
+*.pem
+*.key
+secrets/
+
+# ─── Large Data Files ─────────────────────────────────────────
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.parquet
+data/raw/lade/
+data/tracksight.db
+data/shipforesight.db
+*.db
+*.db-shm
+*.db-wal
+
+# ─── ML Model Artifacts (large binary files) ──────────────────
+models/*.pkl
+models/*.joblib
+models/*.model
+mlruns/
+mlartifacts/
+
+# ─── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+
+# ─── Virtual Environments ─────────────────────────────────────
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# ─── Testing & Coverage ───────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# ─── Type Checking ────────────────────────────────────────────
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ─── Jupyter Notebooks ────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ─── Node / Frontend ──────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# ─── IDEs & Editors ───────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ─── OS Files ─────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# ─── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+*.out
+
+# ─── Temp / Build ─────────────────────────────────────────────
+tmp/
+temp/
+.temp/
+*.tmp
