@@ -1,0 +1,107 @@
+origin,destination,avg_delay_days,historical_count
+New York,Los Angeles,2.1,48000
+Los Angeles,New York,2.3,45000
+Chicago,Houston,1.8,32000
+Houston,Chicago,1.9,30000
+Dallas,Atlanta,1.4,28000
+Atlanta,Dallas,1.5,26000
+Los Angeles,Seattle,1.6,22000
+Seattle,Los Angeles,1.7,21000
+New York,Miami,1.9,35000
+Miami,New York,2.0,33000
+Chicago,Detroit,0.9,18000
+Detroit,Chicago,1.0,17000
+Dallas,Phoenix,1.3,19000
+Phoenix,Dallas,1.4,18000
+New York,Boston,0.8,27000
+Boston,New York,0.9,25000
+San Francisco,Los Angeles,0.7,41000
+Los Angeles,San Francisco,0.8,39000
+Denver,Salt Lake City,1.1,14000
+Salt Lake City,Denver,1.2,13000
+London,Paris,0.9,62000
+Paris,London,1.0,59000
+Berlin,Amsterdam,1.1,44000
+Amsterdam,Berlin,1.2,42000
+Frankfurt,Milan,1.4,38000
+Milan,Frankfurt,1.5,36000
+Madrid,Barcelona,0.8,51000
+Barcelona,Madrid,0.9,49000
+Paris,Brussels,0.7,55000
+Brussels,Paris,0.8,53000
+Rotterdam,Hamburg,0.9,47000
+Hamburg,Rotterdam,1.0,45000
+Munich,Vienna,1.0,31000
+Vienna,Munich,1.1,29000
+Warsaw,Prague,1.3,24000
+Prague,Warsaw,1.4,22000
+Stockholm,Oslo,1.2,18000
+Oslo,Stockholm,1.3,17000
+Zurich,Geneva,0.6,22000
+Geneva,Zurich,0.7,21000
+Shanghai,Singapore,3.2,28000
+Singapore,Shanghai,3.4,26000
+Tokyo,Seoul,2.8,22000
+Seoul,Tokyo,2.9,21000
+Beijing,Guangzhou,1.9,35000
+Guangzhou,Beijing,2.0,33000
+Hong Kong,Shanghai,1.4,42000
+Shanghai,Hong Kong,1.5,40000
+Singapore,Kuala Lumpur,0.9,32000
+Kuala Lumpur,Singapore,1.0,30000
+Bangkok,Ho Chi Minh City,1.6,19000
+Ho Chi Minh City,Bangkok,1.7,18000
+Jakarta,Surabaya,1.3,24000
+Surabaya,Jakarta,1.4,22000
+Sydney,Melbourne,1.1,38000
+Melbourne,Sydney,1.2,36000
+Dubai,Abu Dhabi,0.5,29000
+Abu Dhabi,Dubai,0.6,28000
+Dubai,Riyadh,1.8,22000
+Riyadh,Dubai,1.9,21000
+Mumbai,Delhi,1.4,8200
+Delhi,Mumbai,1.5,7900
+Bangalore,Chennai,0.9,6100
+Chennai,Bangalore,1.0,5800
+Mumbai,Pune,0.6,12400
+Pune,Mumbai,0.7,11900
+Delhi,Kolkata,2.1,4300
+Kolkata,Delhi,2.3,4100
+Mumbai,Ahmedabad,1.1,5600
+Ahmedabad,Mumbai,1.2,5300
+Bangalore,Hyderabad,1.0,7200
+Hyderabad,Bangalore,1.1,6900
+Delhi,Jaipur,0.8,9100
+Jaipur,Delhi,0.9,8700
+Chennai,Hyderabad,1.3,5400
+Hyderabad,Chennai,1.4,5100
+Delhi,Lucknow,1.0,6200
+Lucknow,Delhi,1.1,5900
+Mumbai,Surat,0.7,7800
+Surat,Mumbai,0.8,7400
+Bangalore,Mysuru,0.5,4300
+Mysuru,Bangalore,0.5,4100
+Kolkata,Guwahati,2.8,2100
+Guwahati,Kolkata,3.0,1900
+Mumbai,Goa,1.5,4500
+Goa,Mumbai,1.6,4200
+London,New York,8.5,15000
+New York,London,8.8,14500
+Dubai,Mumbai,4.2,18000
+Mumbai,Dubai,4.4,17500
+Singapore,Sydney,6.8,12000
+Sydney,Singapore,7.0,11500
+Shanghai,Los Angeles,14.0,9800
+Los Angeles,Shanghai,14.5,9200
+Rotterdam,New York,10.2,8500
+New York,Rotterdam,10.5,8100
+Hong Kong,London,11.8,7200
+London,Hong Kong,12.0,6900
+Dubai,London,6.5,11000
+London,Dubai,6.7,10500
+Singapore,Dubai,5.9,9500
+Dubai,Singapore,6.1,9200
+Frankfurt,New York,7.8,10200
+New York,Frankfurt,8.0,9800
+Mumbai,Singapore,5.2,13000
+Singapore,Mumbai,5.4,12500
