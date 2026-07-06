@@ -8,12 +8,24 @@ from backend.data.feature_store import FeatureStore
 from backend.data.loader import seed_feature_store
 from backend.explainability.llm_explainer import LLMExplainer
 
+settings = get_settings()
+
 app = FastAPI(title="ShipForesight API", version="1.0.0")
+
+# 4. CORS Middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=settings.cors_origins_list,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# 5. API Key Auth Middleware
+app.add_middleware(APIKeyMiddleware)
 
 @app.on_event("startup")
 async def startup_event():
-    settings = get_settings()
-    
     # 1. Feature Store setup (and DuckDB seeding if empty)
     seed_feature_store()
     endpoints.feature_store = FeatureStore()
@@ -23,18 +35,6 @@ async def startup_event():
     
     # 3. LLM Explainer setup (Initializes httpx client)
     endpoints.llm_explainer = LLMExplainer()
-    
-    # 4. CORS Middleware
-    app.add_middleware(
-        CORSMiddleware,
-        allow_origins=settings.cors_origins_list,
-        allow_credentials=True,
-        allow_methods=["*"],
-        allow_headers=["*"],
-    )
-    
-    # 5. API Key Auth Middleware
-    app.add_middleware(APIKeyMiddleware)
 
 @app.on_event("shutdown")
 async def shutdown_event():

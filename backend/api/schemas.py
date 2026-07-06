@@ -10,18 +10,18 @@ class ShipmentRequest(BaseModel):
     shipment_id: str = Field(..., min_length=1, max_length=64)
     vendor_name: str = Field(..., min_length=1, max_length=128)
     origin_city: str = Field(..., min_length=1, max_length=64)
+    origin_country: str = Field(..., min_length=2, max_length=64, description="ISO country code or name")
     destination_city: str = Field(..., min_length=1, max_length=64)
+    destination_country: str = Field(..., min_length=2, max_length=64, description="ISO country code or name")
     planned_departure_date: date
-    planned_arrival_date: date
+    scheduled_transit_days: int = Field(..., gt=0, le=365)
     cargo_weight_kg: float = Field(..., gt=0.0, le=50000.0)
     cargo_volume_m3: float = Field(..., gt=0.0, le=200.0)
-    distance_km: float = Field(..., gt=0.0, le=20000.0)
-    num_stops: int = Field(..., ge=0, le=50)
-    carrier_type: Literal["FTL", "LTL", "Intermodal"]
-    weather_risk_score: float = Field(..., ge=0.0, le=1.0)
+    distance_km: float = Field(..., gt=0.0, le=25000.0)
+    num_stops: int = Field(default=1, ge=0, le=50)
+    carrier_type: Literal["FTL", "LTL", "Intermodal", "Ocean", "Air"]
     is_hazmat: bool
     priority_level: Literal["LOW", "MEDIUM", "HIGH", "CRITICAL"]
-    historical_delay_rate: float = Field(..., ge=0.0, le=1.0)
     temperature_sensitive: bool
 
     @field_validator("shipment_id", "vendor_name", "origin_city", "destination_city", mode="before")
@@ -32,11 +32,9 @@ class ShipmentRequest(BaseModel):
 
     @model_validator(mode="after")
     def validate_dates(self):
-        """Cross-validates departure and arrival dates."""
+        """Cross-validates departure date."""
         if self.planned_departure_date < date.today():
             raise ValueError("planned_departure_date must be today or in the future")
-        if self.planned_arrival_date <= self.planned_departure_date:
-            raise ValueError("planned_arrival_date must be after planned_departure_date")
         return self
 
 class PredictionResponse(BaseModel):
@@ -62,3 +60,11 @@ class HealthResponse(BaseModel):
     models_loaded: bool
     duckdb_connected: bool
     version: str
+
+class CountryRiskResponse(BaseModel):
+    country_code: str
+    lpi_score: float
+    customs_tier: int
+    geopolitical_risk: float
+    port_congestion: float
+    risk_category: str
