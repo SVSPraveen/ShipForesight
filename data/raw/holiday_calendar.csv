@@ -1,0 +1,4 @@
+country_code,holiday_date,holiday_name,is_major
+US,2026-01-01,New Year,True
+IN,2026-01-26,Republic Day,True
+CN,2026-02-15,Spring Festival,True

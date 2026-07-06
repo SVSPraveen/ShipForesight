@@ -1,0 +1,202 @@
+Economy_Label,CommercialMarket_Label,Average_age_of_vessels_years_Value,Average_age_of_vessels_years_Footnote,Average_age_of_vessels_years_MissingValue,Median_time_in_port_days_Value,Median_time_in_port_days_Footnote,Median_time_in_port_days_MissingValue,Average_size_GT_of_vessels_Value,Average_size_GT_of_vessels_Footnote,Average_size_GT_of_vessels_MissingValue,Average_cargo_carrying_capacity_dwt_per_vessel_Value,Average_cargo_carrying_capacity_dwt_per_vessel_Footnote,Average_cargo_carrying_capacity_dwt_per_vessel_MissingValue,Average_container_carrying_capacity_TEU_per_container_ship_Value,Average_container_carrying_capacity_TEU_per_container_ship_Footnote,Average_container_carrying_capacity_TEU_per_container_ship_MissingValue,Maximum_size_GT_of_vessels_Value,Maximum_size_GT_of_vessels_Footnote,Maximum_size_GT_of_vessels_MissingValue,Maximum_cargo_carrying_capacity_dwt_of_vessels_Value,Maximum_cargo_carrying_capacity_dwt_of_vessels_Footnote,Maximum_cargo_carrying_capacity_dwt_of_vessels_MissingValue,Maximum_container_carrying_capacity_TEU_of_container_ships_Value,Maximum_container_carrying_capacity_TEU_of_container_ships_Footnote,Maximum_container_carrying_capacity_TEU_of_container_ships_MissingValue
+"World","All ships",18,,,0.99,,,14475,,,25662,,,3576,,,237000,,,404389,,,24116,,
+"World","Liquid bulk carriers",15,,,0.99,,,16122,,,28406,,,,,"Not available or not separately reported",170618,,,323514,,,,,"Not available or not separately reported"
+"World","Liquefied petroleum gas carriers",16,,,1.04,,,11002,,,12303,,,,,"Not available or not separately reported",60784,,,64220,,,,,"Not available or not separately reported"
+"World","Liquefied natural gas carriers",12,,,1.12,,,93190,,,72828,,,,,"Not available or not separately reported",168189,,,155159,,,,,"Not available or not separately reported"
+"World","Dry bulk carriers",15,,,2.13,,,32746,,,58623,,,,,"Not available or not separately reported",204014,,,404389,,,,,"Not available or not separately reported"
+"World","Dry breakbulk carriers",21,,,1.08,,,5610,,,7799,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"World","Roll-on/ roll-off ships",18,,,,,"Not available or not separately reported",26257,,,10443,,,,,"Not available or not separately reported",100430,,,55828,,,,,"Not available or not separately reported"
+"World","Container ships",15,,,0.71,,,38683,,,,,"Not available or not separately reported",3576,,,237000,,,,,"Not available or not separately reported",24116,,
+"World","Passenger ships",20,,,,,"Not available or not separately reported",8377,,,,,"Not available or not separately reported",,,"Not available or not separately reported",235600,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Australia","All ships",17,,,1.54,,,34502,,,82240,,,4334,,,168666,,,297902,,,9661,,
+"Australia","Liquid bulk carriers",9,,,1.3,,,24799,,,42043,,,,,"Not available or not separately reported",85496,,,162342,,,,,"Not available or not separately reported"
+"Australia","Liquefied petroleum gas carriers",8,,,0.83,,,12940,,,13820,,,,,"Not available or not separately reported",53573,,,58811,,,,,"Not available or not separately reported"
+"Australia","Liquefied natural gas carriers",11,,,1.19,,,112020,,,85667,,,,,"Not available or not separately reported",149367,,,97955,,,,,"Not available or not separately reported"
+"Australia","Dry bulk carriers",11,,,1.67,,,60018,,,112233,,,,,"Not available or not separately reported",152311,,,297902,,,,,"Not available or not separately reported"
+"Australia","Dry breakbulk carriers",13,,,1.94,,,17202,,,25894,,,,,"Not available or not separately reported",66870,,,80500,,,,,"Not available or not separately reported"
+"Australia","Roll-on/ roll-off ships",11,,,,,"Not available or not separately reported",40129,,,14833,,,,,"Not available or not separately reported",76420,,,43878,,,,,"Not available or not separately reported"
+"Australia","Container ships",15,,,1.44,,,47224,,,,,"Not available or not separately reported",4334,,,111249,,,,,"Not available or not separately reported",9661,,
+"Australia","Passenger ships",27,,,,,"Not available or not separately reported",8167,,,,,"Not available or not separately reported",,,"Not available or not separately reported",168666,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Canada","All ships",25,,,0.57,,,11545,,,33981,,,5469,,,225282,,,318918,,,16000,,
+"Canada","Liquid bulk carriers",13,,,1.07,,,23240,,,38649,,,,,"Not available or not separately reported",161593,,,318918,,,,,"Not available or not separately reported"
+"Canada","Liquefied petroleum gas carriers",9,,,1.56,,,45810,,,52447,,,,,"Not available or not separately reported",50174,,,58899,,,,,"Not available or not separately reported"
+"Canada","Dry bulk carriers",22,,,0.36,,,28039,,,48148,,,,,"Not available or not separately reported",109982,,,210963,,,,,"Not available or not separately reported"
+"Canada","Dry breakbulk carriers",9,,,0.14,,,9255,,,11016,,,,,"Not available or not separately reported",49091,,,81279,,,,,"Not available or not separately reported"
+"Canada","Roll-on/ roll-off ships",15,,,,,"Not available or not separately reported",14330,,,6859,,,,,"Not available or not separately reported",100430,,,55828,,,,,"Not available or not separately reported"
+"Canada","Container ships",15,,,1.46,,,59803,,,,,"Not available or not separately reported",5469,,,176546,,,,,"Not available or not separately reported",16000,,
+"Canada","Passenger ships",28,,,,,"Not available or not separately reported",7640,,,,,"Not available or not separately reported",,,"Not available or not separately reported",225282,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"China","All ships",14,,,1.05,,,33683,,,46551,,,4561,,,237000,,,404389,,,24116,,
+"China","Liquid bulk carriers",13,,,1.11,,,21119,,,37036,,,,,"Not available or not separately reported",170618,,,323514,,,,,"Not available or not separately reported"
+"China","Liquefied petroleum gas carriers",14,,,1.02,,,10025,,,10878,,,,,"Not available or not separately reported",60784,,,64220,,,,,"Not available or not separately reported"
+"China","Liquefied natural gas carriers",10,,,1.16,,,96307,,,76569,,,,,"Not available or not separately reported",168189,,,155159,,,,,"Not available or not separately reported"
+"China","Dry bulk carriers",14,,,2.01,,,43030,,,78610,,,,,"Not available or not separately reported",204014,,,404389,,,,,"Not available or not separately reported"
+"China","Dry breakbulk carriers",17,,,1.32,,,11160,,,15617,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"China","Roll-on/ roll-off ships",14,,,,,"Not available or not separately reported",27181,,,9672,,,,,"Not available or not separately reported",89797,,,47528,,,,,"Not available or not separately reported"
+"China","Container ships",13,,,0.6,,,48856,,,,,"Not available or not separately reported",4561,,,237000,,,,,"Not available or not separately reported",24116,,
+"China","Passenger ships",13,,,,,"Not available or not separately reported",19392,,,,,"Not available or not separately reported",,,"Not available or not separately reported",171598,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Croatia","All ships",18,,,1.31,,,3901,,,21393,,,4277,,,157844,,,306506,,,15500,,
+"Croatia","Liquid bulk carriers",16,,,1.03,,,17197,,,29495,,,,,"Not available or not separately reported",157844,,,306506,,,,,"Not available or not separately reported"
+"Croatia","Liquefied natural gas carriers",7,,,2.45,,,112138,,,91365,,,,,"Not available or not separately reported",120709,,,95788,,,,,"Not available or not separately reported"
+"Croatia","Dry bulk carriers",22,,,2.24,,,17579,,,30032,,,,,"Not available or not separately reported",94090,,,182820,,,,,"Not available or not separately reported"
+"Croatia","Dry breakbulk carriers",23,,,2.81,,,5141,,,7022,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"Croatia","Container ships",17,,,0.67,,,46467,,,,,"Not available or not separately reported",4277,,,153774,,,,,"Not available or not separately reported",15500,,
+"Croatia","Passenger ships",18,,,,,"Not available or not separately reported",3511,,,,,"Not available or not separately reported",,,"Not available or not separately reported",155873,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Denmark","All ships",22,,,0.74,,,9990,,,7491,,,1978,,,214286,,,180086,,,19630,,
+"Denmark","Liquid bulk carriers",18,,,0.67,,,7685,,,12229,,,,,"Not available or not separately reported",93759,,,164787,,,,,"Not available or not separately reported"
+"Denmark","Liquefied petroleum gas carriers",13,,,1.27,,,3844,,,4240,,,,,"Not available or not separately reported",13549,,,15070,,,,,"Not available or not separately reported"
+"Denmark","Dry bulk carriers",12,,,0.81,,,10069,,,16442,,,,,"Not available or not separately reported",94863,,,180086,,,,,"Not available or not separately reported"
+"Denmark","Dry breakbulk carriers",24,,,0.8,,,3104,,,4313,,,,,"Not available or not separately reported",49091,,,63581,,,,,"Not available or not separately reported"
+"Denmark","Roll-on/ roll-off ships",18,,,,,"Not available or not separately reported",23619,,,12755,,,,,"Not available or not separately reported",72708,,,48988,,,,,"Not available or not separately reported"
+"Denmark","Container ships",17,,,0.57,,,21745,,,,,"Not available or not separately reported",1978,,,214286,,,,,"Not available or not separately reported",19630,,
+"Denmark","Passenger ships",22,,,,,"Not available or not separately reported",10400,,,,,"Not available or not separately reported",,,"Not available or not separately reported",183200,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"France","All ships",18,,,1.14,,,23198,,,18991,,,5579,,,236583,,,320916,,,24116,,
+"France","Liquid bulk carriers",13,,,1.05,,,13965,,,24091,,,,,"Not available or not separately reported",166639,,,320916,,,,,"Not available or not separately reported"
+"France","Liquefied petroleum gas carriers",13,,,1.22,,,8973,,,9993,,,,,"Not available or not separately reported",53573,,,58312,,,,,"Not available or not separately reported"
+"France","Liquefied natural gas carriers",9,,,1.14,,,105836,,,82753,,,,,"Not available or not separately reported",163922,,,130442,,,,,"Not available or not separately reported"
+"France","Dry bulk carriers",15,,,3.25,,,24441,,,42694,,,,,"Not available or not separately reported",106251,,,207867,,,,,"Not available or not separately reported"
+"France","Dry breakbulk carriers",20,,,1.53,,,4508,,,6514,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"France","Roll-on/ roll-off ships",19,,,,,"Not available or not separately reported",27389,,,11440,,,,,"Not available or not separately reported",76420,,,45200,,,,,"Not available or not separately reported"
+"France","Container ships",14,,,0.85,,,61200,,,,,"Not available or not separately reported",5579,,,236583,,,,,"Not available or not separately reported",24116,,
+"France","Passenger ships",19,,,,,"Not available or not separately reported",24031,,,,,"Not available or not separately reported",,,"Not available or not separately reported",228081,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Germany","All ships",22,,,0.64,,,13133,,,9747,,,5015,,,237000,,,321300,,,24004,,
+"Germany","Liquid bulk carriers",19,,,0.44,,,4738,,,8675,,,,,"Not available or not separately reported",170611,,,321300,,,,,"Not available or not separately reported"
+"Germany","Liquefied petroleum gas carriers",16,,,0.87,,,5300,,,5950,,,,,"Not available or not separately reported",47789,,,54650,,,,,"Not available or not separately reported"
+"Germany","Liquefied natural gas carriers",11,,,1.21,,,33988,,,28691,,,,,"Not available or not separately reported",135977,,,98936,,,,,"Not available or not separately reported"
+"Germany","Dry bulk carriers",13,,,2.52,,,28955,,,49766,,,,,"Not available or not separately reported",109768,,,209338,,,,,"Not available or not separately reported"
+"Germany","Dry breakbulk carriers",28,,,0.6,,,3621,,,5087,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"Germany","Roll-on/ roll-off ships",17,,,,,"Not available or not separately reported",32947,,,13411,,,,,"Not available or not separately reported",100430,,,55828,,,,,"Not available or not separately reported"
+"Germany","Container ships",15,,,1.02,,,54461,,,,,"Not available or not separately reported",5015,,,237000,,,,,"Not available or not separately reported",24004,,
+"Germany","Passenger ships",22,,,,,"Not available or not separately reported",11990,,,,,"Not available or not separately reported",,,"Not available or not separately reported",206285,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Greece","All ships",24,,,0.83,,,8681,,,7421,,,4376,,,237000,,,319359,,,24004,,
+"Greece","Liquid bulk carriers",23,,,0.61,,,5153,,,8069,,,,,"Not available or not separately reported",161692,,,319359,,,,,"Not available or not separately reported"
+"Greece","Liquefied petroleum gas carriers",26,,,0.97,,,5165,,,6189,,,,,"Not available or not separately reported",25004,,,28702,,,,,"Not available or not separately reported"
+"Greece","Liquefied natural gas carriers",11,,,1.17,,,104182,,,83840,,,,,"Not available or not separately reported",144828,,,98954,,,,,"Not available or not separately reported"
+"Greece","Dry bulk carriers",28,,,0.69,,,7119,,,12011,,,,,"Not available or not separately reported",94232,,,182511,,,,,"Not available or not separately reported"
+"Greece","Dry breakbulk carriers",34,,,1.14,,,2968,,,4154,,,,,"Not available or not separately reported",40350,,,64942,,,,,"Not available or not separately reported"
+"Greece","Roll-on/ roll-off ships",35,,,,,"Not available or not separately reported",15791,,,6470,,,,,"Not available or not separately reported",76420,,,48988,,,,,"Not available or not separately reported"
+"Greece","Container ships",17,,,1.03,,,46846,,,,,"Not available or not separately reported",4376,,,237000,,,,,"Not available or not separately reported",24004,,
+"Greece","Passenger ships",23,,,,,"Not available or not separately reported",8123,,,,,"Not available or not separately reported",,,"Not available or not separately reported",186364,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Indonesia","All ships",20,,,1.26,,,7833,,,16885,,,1280,,,176435,,,319247,,,16000,,
+"Indonesia","Liquid bulk carriers",16,,,1.32,,,8589,,,13471,,,,,"Not available or not separately reported",161175,,,319247,,,,,"Not available or not separately reported"
+"Indonesia","Liquefied petroleum gas carriers",21,,,1.08,,,8254,,,9047,,,,,"Not available or not separately reported",53573,,,59479,,,,,"Not available or not separately reported"
+"Indonesia","Liquefied natural gas carriers",17,,,1.42,,,94456,,,72581,,,,,"Not available or not separately reported",136739,,,98954,,,,,"Not available or not separately reported"
+"Indonesia","Dry bulk carriers",18,,,2.69,,,25723,,,45358,,,,,"Not available or not separately reported",109716,,,211135,,,,,"Not available or not separately reported"
+"Indonesia","Dry breakbulk carriers",21,,,1.16,,,5134,,,6915,,,,,"Not available or not separately reported",57934,,,72562,,,,,"Not available or not separately reported"
+"Indonesia","Roll-on/ roll-off ships",29,,,,,"Not available or not separately reported",10291,,,4874,,,,,"Not available or not separately reported",75528,,,32956,,,,,"Not available or not separately reported"
+"Indonesia","Container ships",16,,,0.97,,,14237,,,,,"Not available or not separately reported",1280,,,176435,,,,,"Not available or not separately reported",16000,,
+"Indonesia","Passenger ships",21,,,,,"Not available or not separately reported",5016,,,,,"Not available or not separately reported",,,"Not available or not separately reported",130818,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Italy","All ships",28,,,1.28,,,10908,,,20716,,,3963,,,236184,,,319202,,,24000,,
+"Italy","Liquid bulk carriers",19,,,1.26,,,18506,,,31686,,,,,"Not available or not separately reported",160087,,,319202,,,,,"Not available or not separately reported"
+"Italy","Liquefied petroleum gas carriers",15,,,1.58,,,8684,,,9778,,,,,"Not available or not separately reported",48963,,,54656,,,,,"Not available or not separately reported"
+"Italy","Liquefied natural gas carriers",14,,,2.07,,,56587,,,43038,,,,,"Not available or not separately reported",117564,,,96889,,,,,"Not available or not separately reported"
+"Italy","Dry bulk carriers",15,,,3.46,,,25106,,,43325,,,,,"Not available or not separately reported",109534,,,210000,,,,,"Not available or not separately reported"
+"Italy","Dry breakbulk carriers",20,,,1.99,,,6536,,,9144,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"Italy","Roll-on/ roll-off ships",14,,,,,"Not available or not separately reported",36648,,,13635,,,,,"Not available or not separately reported",89797,,,47528,,,,,"Not available or not separately reported"
+"Italy","Container ships",17,,,0.9,,,44002,,,,,"Not available or not separately reported",3963,,,236184,,,,,"Not available or not separately reported",24000,,
+"Italy","Passenger ships",30,,,,,"Not available or not separately reported",8043,,,,,"Not available or not separately reported",,,"Not available or not separately reported",228081,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Japan","All ships",14,,,0.41,,,10439,,,15001,,,1614,,,236500,,,327017,,,15500,,
+"Japan","Liquid bulk carriers",12,,,0.32,,,8289,,,14024,,,,,"Not available or not separately reported",169919,,,320299,,,,,"Not available or not separately reported"
+"Japan","Liquefied petroleum gas carriers",13,,,0.37,,,6955,,,7612,,,,,"Not available or not separately reported",54634,,,62500,,,,,"Not available or not separately reported"
+"Japan","Liquefied natural gas carriers",14,,,1.01,,,65790,,,47780,,,,,"Not available or not separately reported",163922,,,130442,,,,,"Not available or not separately reported"
+"Japan","Dry bulk carriers",14,,,0.9,,,17113,,,29548,,,,,"Not available or not separately reported",161294,,,327017,,,,,"Not available or not separately reported"
+"Japan","Dry breakbulk carriers",14,,,1.14,,,6878,,,9140,,,,,"Not available or not separately reported",66870,,,80500,,,,,"Not available or not separately reported"
+"Japan","Roll-on/ roll-off ships",12,,,,,"Not available or not separately reported",16926,,,7350,,,,,"Not available or not separately reported",77644,,,43878,,,,,"Not available or not separately reported"
+"Japan","Container ships",13,,,0.35,,,16602,,,,,"Not available or not separately reported",1614,,,236500,,,,,"Not available or not separately reported",15500,,
+"Japan","Passenger ships",16,,,,,"Not available or not separately reported",5313,,,,,"Not available or not separately reported",,,"Not available or not separately reported",171598,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Korea, Republic of","All ships",15,,,0.85,,,19713,,,21528,,,2990,,,236583,,,326932,,,24000,,
+"Korea, Republic of","Liquid bulk carriers",14,,,0.74,,,13791,,,23777,,,,,"Not available or not separately reported",167578,,,323514,,,,,"Not available or not separately reported"
+"Korea, Republic of","Liquefied petroleum gas carriers",14,,,0.86,,,8641,,,9450,,,,,"Not available or not separately reported",55833,,,62500,,,,,"Not available or not separately reported"
+"Korea, Republic of","Liquefied natural gas carriers",13,,,1.03,,,108541,,,85344,,,,,"Not available or not separately reported",168189,,,155159,,,,,"Not available or not separately reported"
+"Korea, Republic of","Dry bulk carriers",13,,,2.71,,,33194,,,59825,,,,,"Not available or not separately reported",161294,,,326932,,,,,"Not available or not separately reported"
+"Korea, Republic of","Dry breakbulk carriers",19,,,1.16,,,5496,,,7984,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"Korea, Republic of","Roll-on/ roll-off ships",21,,,,,"Not available or not separately reported",28620,,,11686,,,,,"Not available or not separately reported",89797,,,47528,,,,,"Not available or not separately reported"
+"Korea, Republic of","Container ships",14,,,0.65,,,32172,,,,,"Not available or not separately reported",2990,,,236583,,,,,"Not available or not separately reported",24000,,
+"Korea, Republic of","Passenger ships",11,,,,,"Not available or not separately reported",16371,,,,,"Not available or not separately reported",,,"Not available or not separately reported",171598,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Netherlands (Kingdom of the)","All ships",19,,,0.54,,,12540,,,15007,,,3151,,,237000,,,324954,,,24116,,
+"Netherlands (Kingdom of the)","Liquid bulk carriers",17,,,0.54,,,9034,,,17792,,,,,"Not available or not separately reported",170611,,,323182,,,,,"Not available or not separately reported"
+"Netherlands (Kingdom of the)","Liquefied petroleum gas carriers",15,,,1.02,,,6678,,,7383,,,,,"Not available or not separately reported",52506,,,59504,,,,,"Not available or not separately reported"
+"Netherlands (Kingdom of the)","Liquefied natural gas carriers",7,,,1.05,,,79209,,,61757,,,,,"Not available or not separately reported",163922,,,130211,,,,,"Not available or not separately reported"
+"Netherlands (Kingdom of the)","Dry bulk carriers",12,,,1.07,,,36908,,,66062,,,,,"Not available or not separately reported",173756,,,324954,,,,,"Not available or not separately reported"
+"Netherlands (Kingdom of the)","Dry breakbulk carriers",25,,,0.37,,,3781,,,5570,,,,,"Not available or not separately reported",91784,,,116173,,,,,"Not available or not separately reported"
+"Netherlands (Kingdom of the)","Roll-on/ roll-off ships",24,,,,,"Not available or not separately reported",19116,,,7335,,,,,"Not available or not separately reported",89797,,,48988,,,,,"Not available or not separately reported"
+"Netherlands (Kingdom of the)","Container ships",17,,,0.8,,,34096,,,,,"Not available or not separately reported",3151,,,237000,,,,,"Not available or not separately reported",24116,,
+"Netherlands (Kingdom of the)","Passenger ships",16,,,,,"Not available or not separately reported",14580,,,,,"Not available or not separately reported",,,"Not available or not separately reported",206285,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Norway","All ships",14,,,0.43,,,3861,,,7636,,,790,,,184089,,,319319,,,2474,,
+"Norway","Liquid bulk carriers",17,,,0.66,,,11959,,,19463,,,,,"Not available or not separately reported",166639,,,319319,,,,,"Not available or not separately reported"
+"Norway","Liquefied petroleum gas carriers",11,,,0.78,,,6893,,,7388,,,,,"Not available or not separately reported",37366,,,42543,,,,,"Not available or not separately reported"
+"Norway","Liquefied natural gas carriers",16,,,0.52,,,22458,,,16544,,,,,"Not available or not separately reported",121597,,,95289,,,,,"Not available or not separately reported"
+"Norway","Dry bulk carriers",15,,,0.86,,,18520,,,30715,,,,,"Not available or not separately reported",109768,,,209260,,,,,"Not available or not separately reported"
+"Norway","Dry breakbulk carriers",24,,,0.34,,,2940,,,3528,,,,,"Not available or not separately reported",84503,,,98370,,,,,"Not available or not separately reported"
+"Norway","Roll-on/ roll-off ships",19,,,,,"Not available or not separately reported",10711,,,6557,,,,,"Not available or not separately reported",72408,,,27295,,,,,"Not available or not separately reported"
+"Norway","Container ships",18,,,0.3,,,8516,,,,,"Not available or not separately reported",790,,,25756,,,,,"Not available or not separately reported",2474,,
+"Norway","Passenger ships",14,,,,,"Not available or not separately reported",3732,,,,,"Not available or not separately reported",,,"Not available or not separately reported",184089,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Philippines","All ships",17,,,0.81,,,6941,,,10401,,,1769,,,151094,,,297461,,,7092,,
+"Philippines","Liquid bulk carriers",12,,,0.82,,,6180,,,9843,,,,,"Not available or not separately reported",65696,,,115024,,,,,"Not available or not separately reported"
+"Philippines","Liquefied petroleum gas carriers",17,,,0.7,,,7248,,,8218,,,,,"Not available or not separately reported",54696,,,58811,,,,,"Not available or not separately reported"
+"Philippines","Dry bulk carriers",14,,,4.71,,,27368,,,48197,,,,,"Not available or not separately reported",151094,,,297461,,,,,"Not available or not separately reported"
+"Philippines","Dry breakbulk carriers",17,,,0.68,,,3552,,,4724,,,,,"Not available or not separately reported",66870,,,71691,,,,,"Not available or not separately reported"
+"Philippines","Roll-on/ roll-off ships",27,,,,,"Not available or not separately reported",20669,,,8790,,,,,"Not available or not separately reported",76299,,,32956,,,,,"Not available or not separately reported"
+"Philippines","Container ships",16,,,0.82,,,18903,,,,,"Not available or not separately reported",1769,,,73172,,,,,"Not available or not separately reported",7092,,
+"Philippines","Passenger ships",19,,,,,"Not available or not separately reported",3689,,,,,"Not available or not separately reported",,,"Not available or not separately reported",93502,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Russian Federation","All ships",26,,,1.55,,,12202,,,19068,,,1295,,,128975,,,206204,,,4843,,
+"Russian Federation","Liquid bulk carriers",24,,,1.17,,,16254,,,28134,,,,,"Not available or not separately reported",87146,,,166467,,,,,"Not available or not separately reported"
+"Russian Federation","Liquefied petroleum gas carriers",20,,,2.13,,,12520,,,15075,,,,,"Not available or not separately reported",26515,,,38427,,,,,"Not available or not separately reported"
+"Russian Federation","Liquefied natural gas carriers",11,,,1.13,,,102420,,,74188,,,,,"Not available or not separately reported",128975,,,97000,,,,,"Not available or not separately reported"
+"Russian Federation","Dry bulk carriers",18,,,2.8,,,27620,,,48524,,,,,"Not available or not separately reported",104732,,,206204,,,,,"Not available or not separately reported"
+"Russian Federation","Dry breakbulk carriers",30,,,1.82,,,4569,,,6118,,,,,"Not available or not separately reported",48292,,,72562,,,,,"Not available or not separately reported"
+"Russian Federation","Roll-on/ roll-off ships",31,,,,,"Not available or not separately reported",9730,,,5449,,,,,"Not available or not separately reported",20729,,,14107,,,,,"Not available or not separately reported"
+"Russian Federation","Container ships",19,,,1.56,,,13608,,,,,"Not available or not separately reported",1295,,,54519,,,,,"Not available or not separately reported",4843,,
+"Russian Federation","Passenger ships",26,,,,,"Not available or not separately reported",7406,,,,,"Not available or not separately reported",,,"Not available or not separately reported",38557,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Singapore","All ships",13,,,0.73,,,26306,,,17224,,,5345,,,237000,,,321300,,,24116,,
+"Singapore","Liquid bulk carriers",11,,,0.64,,,10368,,,17210,,,,,"Not available or not separately reported",170611,,,321300,,,,,"Not available or not separately reported"
+"Singapore","Liquefied petroleum gas carriers",12,,,1.1,,,9263,,,10559,,,,,"Not available or not separately reported",52666,,,58899,,,,,"Not available or not separately reported"
+"Singapore","Liquefied natural gas carriers",12,,,1.18,,,102510,,,80705,,,,,"Not available or not separately reported",163922,,,130211,,,,,"Not available or not separately reported"
+"Singapore","Dry bulk carriers",13,,,0.76,,,14854,,,24465,,,,,"Not available or not separately reported",111454,,,210000,,,,,"Not available or not separately reported"
+"Singapore","Dry breakbulk carriers",16,,,0.73,,,7771,,,10411,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"Singapore","Roll-on/ roll-off ships",16,,,,,"Not available or not separately reported",53226,,,17523,,,,,"Not available or not separately reported",76420,,,43878,,,,,"Not available or not separately reported"
+"Singapore","Container ships",14,,,0.85,,,57460,,,,,"Not available or not separately reported",5345,,,237000,,,,,"Not available or not separately reported",24116,,
+"Singapore","Passenger ships",11,,,,,"Not available or not separately reported",114518,,,,,"Not available or not separately reported",,,"Not available or not separately reported",171598,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Spain","All ships",18,,,0.86,,,17569,,,16489,,,3194,,,237000,,,318744,,,24116,,
+"Spain","Liquid bulk carriers",13,,,0.86,,,11632,,,19147,,,,,"Not available or not separately reported",163209,,,318744,,,,,"Not available or not separately reported"
+"Spain","Liquefied petroleum gas carriers",13,,,1.06,,,7380,,,8316,,,,,"Not available or not separately reported",57494,,,59138,,,,,"Not available or not separately reported"
+"Spain","Liquefied natural gas carriers",11,,,1.05,,,95463,,,74098,,,,,"Not available or not separately reported",141671,,,107160,,,,,"Not available or not separately reported"
+"Spain","Dry bulk carriers",16,,,2.04,,,24934,,,42981,,,,,"Not available or not separately reported",107567,,,208263,,,,,"Not available or not separately reported"
+"Spain","Dry breakbulk carriers",17,,,1.27,,,5325,,,7469,,,,,"Not available or not separately reported",66870,,,73296,,,,,"Not available or not separately reported"
+"Spain","Roll-on/ roll-off ships",13,,,,,"Not available or not separately reported",26277,,,9079,,,,,"Not available or not separately reported",89797,,,48988,,,,,"Not available or not separately reported"
+"Spain","Container ships",17,,,0.6,,,34894,,,,,"Not available or not separately reported",3194,,,237000,,,,,"Not available or not separately reported",24116,,
+"Spain","Passenger ships",19,,,,,"Not available or not separately reported",15672,,,,,"Not available or not separately reported",,,"Not available or not separately reported",232000,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Sweden","All ships",23,,,0.84,,,17666,,,9132,,,1709,,,214286,,,319319,,,19630,,
+"Sweden","Liquid bulk carriers",15,,,0.67,,,8609,,,12870,,,,,"Not available or not separately reported",164580,,,319319,,,,,"Not available or not separately reported"
+"Sweden","Liquefied petroleum gas carriers",13,,,0.91,,,8548,,,9361,,,,,"Not available or not separately reported",54000,,,62500,,,,,"Not available or not separately reported"
+"Sweden","Dry bulk carriers",20,,,0.58,,,7529,,,12008,,,,,"Not available or not separately reported",44616,,,82219,,,,,"Not available or not separately reported"
+"Sweden","Dry breakbulk carriers",21,,,1.13,,,3827,,,5463,,,,,"Not available or not separately reported",39433,,,61250,,,,,"Not available or not separately reported"
+"Sweden","Roll-on/ roll-off ships",18,,,,,"Not available or not separately reported",31850,,,12824,,,,,"Not available or not separately reported",76420,,,38500,,,,,"Not available or not separately reported"
+"Sweden","Container ships",18,,,0.67,,,18512,,,,,"Not available or not separately reported",1709,,,214286,,,,,"Not available or not separately reported",19630,,
+"Sweden","Passenger ships",25,,,,,"Not available or not separately reported",21742,,,,,"Not available or not separately reported",,,"Not available or not separately reported",145000,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"Turkiye","All ships",24,,,1.26,,,6351,,,17701,,,2815,,,236080,,,319471,,,19462,,
+"Turkiye","Liquid bulk carriers",15,,,1.32,,,18853,,,31913,,,,,"Not available or not separately reported",169919,,,319471,,,,,"Not available or not separately reported"
+"Turkiye","Liquefied petroleum gas carriers",19,,,1.35,,,16825,,,19772,,,,,"Not available or not separately reported",52506,,,59504,,,,,"Not available or not separately reported"
+"Turkiye","Liquefied natural gas carriers",9,,,1.23,,,110239,,,88732,,,,,"Not available or not separately reported",130200,,,107662,,,,,"Not available or not separately reported"
+"Turkiye","Dry bulk carriers",17,,,3.68,,,24363,,,42005,,,,,"Not available or not separately reported",150918,,,297541,,,,,"Not available or not separately reported"
+"Turkiye","Dry breakbulk carriers",28,,,1.48,,,4524,,,6361,,,,,"Not available or not separately reported",66870,,,71954,,,,,"Not available or not separately reported"
+"Turkiye","Roll-on/ roll-off ships",26,,,,,"Not available or not separately reported",25299,,,9893,,,,,"Not available or not separately reported",76299,,,45200,,,,,"Not available or not separately reported"
+"Turkiye","Container ships",18,,,0.65,,,30488,,,,,"Not available or not separately reported",2815,,,236080,,,,,"Not available or not separately reported",19462,,
+"Turkiye","Passenger ships",25,,,,,"Not available or not separately reported",1931,,,,,"Not available or not separately reported",,,"Not available or not separately reported",167704,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"United Kingdom","All ships",19,,,1.11,,,14300,,,12752,,,3467,,,237000,,,320159,,,24116,,
+"United Kingdom","Liquid bulk carriers",15,,,1.09,,,13077,,,21680,,,,,"Not available or not separately reported",170611,,,320159,,,,,"Not available or not separately reported"
+"United Kingdom","Liquefied petroleum gas carriers",11,,,1.06,,,6769,,,7266,,,,,"Not available or not separately reported",56081,,,60138,,,,,"Not available or not separately reported"
+"United Kingdom","Liquefied natural gas carriers",8,,,1.19,,,89918,,,71749,,,,,"Not available or not separately reported",168189,,,154900,,,,,"Not available or not separately reported"
+"United Kingdom","Dry bulk carriers",16,,,2.6,,,23988,,,40853,,,,,"Not available or not separately reported",94879,,,182983,,,,,"Not available or not separately reported"
+"United Kingdom","Dry breakbulk carriers",19,,,1.51,,,3551,,,4950,,,,,"Not available or not separately reported",149944,,,175897,,,,,"Not available or not separately reported"
+"United Kingdom","Roll-on/ roll-off ships",16,,,,,"Not available or not separately reported",24214,,,9862,,,,,"Not available or not separately reported",100430,,,55828,,,,,"Not available or not separately reported"
+"United Kingdom","Container ships",17,,,0.68,,,38169,,,,,"Not available or not separately reported",3467,,,237000,,,,,"Not available or not separately reported",24116,,
+"United Kingdom","Passenger ships",20,,,,,"Not available or not separately reported",12890,,,,,"Not available or not separately reported",,,"Not available or not separately reported",185206,,,,,"Not available or not separately reported",,,"Not available or not separately reported"
+"United States of America","All ships",27,,,1.54,,,18671,,,49816,,,5691,,,235600,,,323183,,,19224,,
+"United States of America","Liquid bulk carriers",12,,,1.71,,,37291,,,64920,,,,,"Not available or not separately reported",170611,,,323183,,,,,"Not available or not separately reported"
+"United States of America","Liquefied petroleum gas carriers",9,,,1.81,,,31394,,,35414,,,,,"Not available or not separately reported",60784,,,63770,,,,,"Not available or not separately reported"
+"United States of America","Liquefied natural gas carriers",6,,,1.36,,,106815,,,85368,,,,,"Not available or not separately reported",149367,,,121963,,,,,"Not available or not separately reported"
+"United States of America","Dry bulk carriers",19,,,2.25,,,29458,,,52746,,,,,"Not available or not separately reported",108901,,,209854,,,,,"Not available or not separately reported"
+"United States of America","Dry breakbulk carriers",19,,,1.88,,,12994,,,17297,,,,,"Not available or not separately reported",91784,,,116173,,,,,"Not available or not separately reported"
+"United States of America","Roll-on/ roll-off ships",15,,,,,"Not available or not separately reported",58946,,,21502,,,,,"Not available or not separately reported",100430,,,55828,,,,,"Not available or not separately reported"
+"United States of America","Container ships",15,,,1.08,,,63680,,,,,"Not available or not separately reported",5691,,,194308,,,,,"Not available or not separately reported",19224,,
+"United States of America","Passenger ships",31,,,,,"Not available or not separately reported",9594,,,,,"Not available or not separately reported",,,"Not available or not separately reported",235600,,,,,"Not available or not separately reported",,,"Not available or not separately reported"

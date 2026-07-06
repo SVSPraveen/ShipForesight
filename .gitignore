@@ -4,21 +4,14 @@
 *.key
 secrets/
 
-# ─── Large Data Files ─────────────────────────────────────────
-data/raw/*.csv
-data/raw/*.json
-data/raw/*.parquet
+# ─── Large Data Files ─────────────────────────────────────────# 📦 Large Data Files 📦
+# Data and models are tracked per user request
 data/raw/lade/
 data/tracksight.db
-data/shipforesight.db
-*.db
 *.db-shm
 *.db-wal
 
-# ─── ML Model Artifacts (large binary files) ──────────────────
-models/*.pkl
-models/*.joblib
-models/*.model
+# 🧠 ML Model Artifacts (large binary files) 🧠
 mlruns/
 mlartifacts/
 
